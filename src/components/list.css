@@ -1,0 +1,23 @@
+.Fail{
+    color:red;
+}
+.Topper{
+    color: green;
+}
+
+table, tr, th,td{
+border: 1px solid grey;
+
+}
+tr>th, tr>td{
+    padding: 5px;
+}
+table{
+    width: 100%;
+    margin: auto;
+}
+.student_result{
+    width: 100%;
+}
+
+

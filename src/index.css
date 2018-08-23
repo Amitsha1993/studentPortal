@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.portal{
+  width: 60%;
+  margin: auto;
+  background: #e0e2c3;
+  padding: 20px;
+}
+.portal h2{
+  background: #e0e2c3;
+  color: #c35353;
+  padding: 4px;
+  border: 0px solid #4c3c3c73;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.root{
+width: 100%
+}
+ul li{
+  display: inline;
+  margin: 20px;
+  font-weight: 600;
+}
+ul{
+  text-align: center;
+}
+
+

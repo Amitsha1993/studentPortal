@@ -1,0 +1,139 @@
+{
+    "root": [
+        {
+            "name": "meghna",
+            "marks": {
+                "Maths": 45,
+                "English": 45,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A10"
+        },
+        {
+            "name": "amit",
+            "marks": {
+                "Maths": 43,
+                "English": 30,
+                "Science": 37
+            },
+            "rollNumber": "KV2017-5A1"
+        },
+        {
+            "name": "zoya",
+            "marks": {
+                "Maths": 42,
+                "English": 31,
+                "Science": 50
+            },
+            "rollNumber": "KV2017-5A3"
+        },
+        {
+            "name": "rajiv",
+            "marks": {
+                "Maths": 18,
+                "English": 21,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A2"
+        },
+        {
+            "name": "aparna",
+            "marks": {
+                "Maths": 45,
+                "English": 40,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A4"
+        },
+        {
+            "name": "radhey",
+            "marks": {
+                "Maths": 18,
+                "English": 21,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A5"
+        },
+        {
+            "name": "shashi prasad",
+            "marks": {
+                "Maths": 12,
+                "English": 21,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A6"
+        },
+        {
+            "name": "krishna",
+            "marks": {
+                "Maths": 35,
+                "English": 21,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A7"
+        },
+        {
+            "name": "david",
+            "marks": {
+                "Maths": 17,
+                "English": 21,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A8"
+        },
+        {
+            "name": "shipra",
+            "marks": {
+                "Maths": 12,
+                "English": 25,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A9"
+        },
+        {
+            "name": "shan",
+            "marks": {
+                "Maths": 50,
+                "English": 21,
+                "Science": 45
+            },
+            "rollNumber": "KV2017-5A11"
+        },
+        {
+            "name": "deepak",
+            "marks": {
+                "Maths": 34,
+                "English": 23,
+                "Science": 42
+            },
+            "rollNumber": "KV2017-5A12"
+        },
+        {
+            "name": "naina",
+            "marks": {
+                "Maths": 10,
+                "English": 21,
+                "Science": 23
+            },
+            "rollNumber": "KV2017-5A13"
+        },
+        {
+            "name": "pragati",
+            "marks": {
+                "Maths": 18,
+                "English": 22,
+                "Science": 23
+            },
+            "rollNumber": "KV2017-5A14"
+        },
+        {
+            "name": "shakes",
+            "marks": {
+                "Maths": 34,
+                "English": 21,
+                "Science": 43
+            },
+            "rollNumber": "KV2017-5A15"
+        }
+    ]
+}

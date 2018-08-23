@@ -1,0 +1,30 @@
+.admission_form{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+.admission_form .form{
+    margin: 5px
+}
+
+.App{
+    width: 60%;
+      margin: auto;
+  }
+
+  
+  button{
+    padding: 11px 20px;
+      background-color:#c35353;
+      color: white;
+     
+      border-radius: 10px;
+  }
+  button[disabled]{
+      background-color:grey;
+      padding: 11px 20px;
+      color: white;
+    
+      border-radius: 10px;
+  }
+  
